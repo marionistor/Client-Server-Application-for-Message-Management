@@ -1,0 +1,1 @@
+C-based TCP/UDP messaging system with I/O multiplexing using poll(). Implements a server handling multiple clients and a subscriber client that processes commands and receives messages based on topic subscriptions. Supports efficient message forwarding, client reconnection, and wildcard-based topic matching.
